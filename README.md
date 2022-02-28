@@ -1,5 +1,5 @@
 # Micanje dijaktirikâ iz imena datotekâ
-Program datotekama u zadanom direktoriju mijenja ime tako da dijakritike (č,ž,š,đ) zamijenjuje latiniziranim znakovima (c, z, s, d)
+Program datotekama u zadanom direktoriju mijenja ime tako da dijakritike (č, ž, š, đ) zamijenjuje latiniziranim znakovima (c, z, s, dj)
 
 ##Kratki opis
 Svatko tko je radio s datotekama koje u nazivu koriste hrvatske znakove zna koliko mu problema mogu stvarati upravo dijakritci, posebice ako radite s Linuxom. 
